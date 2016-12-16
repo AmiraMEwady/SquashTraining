@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d2c38534cc91bc34facb9f5ccccc4d11
+timeCreated: 1481342508
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - squashBall: {fileID: 114250, guid: 22e1778528985b342829dbd4f4252bfc, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
